@@ -7,7 +7,7 @@
 	mysqli_set_charset($conn,"utf8"); //UTF-8 for Turkish letters
 	if (!$conn) {
 		echo "error";
-	  }
-	echo "Connected successfully";
+	}
+	
 	  
 ?>
